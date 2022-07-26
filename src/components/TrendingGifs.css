@@ -1,0 +1,9 @@
+.trending-gif img {
+    height: 100%;
+    width: 175px;
+    border-radius: 3px;
+}
+
+.trending-gif {
+    margin-right: 3px;
+}
